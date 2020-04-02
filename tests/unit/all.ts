@@ -1,1 +1,1 @@
-import './FontAwesomeIcon';
+import "./FontAwesomeIcon";
