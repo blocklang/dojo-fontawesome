@@ -1,6 +1,6 @@
 {
   "name": "@blocklang/dojo-fontawesome",
-  "version": "0.0.3-alpha.2",
+  "version": "0.0.3-alpha.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/blocklang/dojo-fontawesome.git"
@@ -20,26 +20,26 @@
     "prettier": "prettier --write \"{src,tests}/**/*.{ts,tsx,css}\""
   },
   "dependencies": {
-    "@dojo/framework": "^7.0.1",
-    "@fortawesome/fontawesome-svg-core": "^1.2.29",
-    "@fortawesome/free-brands-svg-icons": "^5.13.1",
-    "@fortawesome/free-regular-svg-icons": "^5.13.1",
-    "@fortawesome/free-solid-svg-icons": "^5.13.1",
-    "tslib": "~2.0.0"
+    "@dojo/framework": "^7.0.5",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-regular-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "tslib": "^2.0.3"
   },
   "devDependencies": {
-    "@commitlint/cli": "^9.0.1",
-    "@commitlint/config-conventional": "^9.0.1",
+    "@commitlint/cli": "^9.1.2",
+    "@commitlint/config-conventional": "^9.1.2",
     "@dojo/cli": "^7.0.0",
-    "@dojo/cli-build-app": "^7.0.0",
+    "@dojo/cli-build-app": "^7.0.3",
     "@dojo/cli-build-widget": "^7.0.0",
     "@dojo/cli-test-intern": "^7.0.0",
-    "@types/node": "^14.0.13",
-    "husky": "^4.2.5",
-    "lint-staged": "^10.2.11",
-    "prettier": "^2.0.5",
-    "shx": "^0.3.2",
-    "typescript": "~3.9.5"
+    "@types/node": "^14.14.7",
+    "husky": "^4.3.0",
+    "lint-staged": "^10.5.1",
+    "prettier": "^2.1.2",
+    "shx": "^0.3.3",
+    "typescript": "^3.9.7"
   },
   "husky": {
     "hooks": {
